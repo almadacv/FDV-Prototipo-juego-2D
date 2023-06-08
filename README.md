@@ -304,4 +304,4 @@ To enter the zombie’s dungeon the player collider, must touch the door atop of
 
 Demo:
 
-   ![Demo](https://github.com/almadacv/FDV-Prototipo-juego-2D/blob/main/Gif/Demo.gif)
+   ![Demo](https://github.com/almadacv/FDV-Prototipo-juego-2D/blob/main/Gif/demo.gif)
